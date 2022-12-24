@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vs/ED-PlayerJournal-Monitor/v17/.wsuo
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
